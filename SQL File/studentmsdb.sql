@@ -315,7 +315,9 @@ ALTER TABLE `tblpage`
 ALTER TABLE `tblpublicnotice`
   MODIFY `ID` int(5) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 
-
+--
+-- AUTO_INCREMENT for table `tblstudent`
+--
 ALTER TABLE `tblstudent`
   MODIFY `ID` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
 
