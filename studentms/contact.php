@@ -86,6 +86,6 @@ foreach($results as $row)
 		</div>
 		<!-- //contact -->
 <?php include_once('includes/footer.php');?>
-<!--/copy-rights-->
+
 	</body>
 </html>

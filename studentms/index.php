@@ -119,9 +119,9 @@ foreach($results as $row)
 	</div>
 </div>
 <!--\testmonials-->
-<!--specfication-->
 
-<!--/specfication-->
+
+
 <?php include_once('includes/footer.php');?>
 <!--/copy-rights-->
 	</body>

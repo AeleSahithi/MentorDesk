@@ -73,6 +73,6 @@ foreach($results as $row)
 </div>
 <!-- /About -->
 <?php include_once('includes/footer.php');?>
-<!--/copy-rights-->
+
 	</body>
 </html>
