@@ -111,5 +111,6 @@ echo "<script>alert('Invalid Details');</script>";
     <script src="js/off-canvas.js"></script>
     <script src="js/misc.js"></script>
     <!-- endinject -->
+     
   </body>
 </html>
