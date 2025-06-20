@@ -43,7 +43,7 @@ echo "<script>window.location.href ='add-class.php'</script>";
     <!-- endinject -->
     <!-- Layout styles -->
     <link rel="stylesheet" href="css/style.css" />
-    
+  
   </head>
   <body>
     <div class="container-scroller">
