@@ -15,13 +15,12 @@ How to run the Student Management System (StudentMS) Project
 7.Run the script http://localhost/studentms (frontend)
 
 
-
-***********************Credential for admin panel***********************
+Credential for admin panel :
 
 Username: admin
 Password: Test@123
 
-***********************Credential for Student / User panel :***********************
+Credential for Student / User panel :
 
 Username: anujk3
 Password: Test@123
