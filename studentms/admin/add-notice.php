@@ -41,7 +41,7 @@ echo "<script>window.location.href ='add-notice.php'</script>";
     <link rel="stylesheet" href="vendors/select2/select2.min.css">
     <link rel="stylesheet" href="vendors/select2-bootstrap-theme/select2-bootstrap.min.css">
     <!-- End plugin css for this page -->
-    <!-- inject:css -->
+    
     <!-- endinject -->
     <!-- Layout styles -->
     <link rel="stylesheet" href="css/style.css" />
