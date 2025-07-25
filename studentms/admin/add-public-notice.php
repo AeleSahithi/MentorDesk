@@ -116,6 +116,6 @@ echo "<script>window.location.href ='add-public-notice.php'</script>";
     <!-- Custom js for this page -->
     <script src="js/typeahead.js"></script>
     <script src="js/select2.js"></script>
-    <!-- End custom js for this page -->
+    
   </body>
 </html><?php }  ?>
